@@ -8,7 +8,7 @@ public class golbal {
 		System.out.println(i);
 		System.out.println(b);
 		System.out.println(s);
-		
+		System.out.println("hi");
 		
 	}//main body close
 
